@@ -16,6 +16,8 @@ You will also see any lint errors in the console.
 
 This project is a YouTube clone practice project.
 
+Change youtube data api key in App.js, ex ) key: '[YOUR_API]'
+
 Original YouTube URL : https://www.youtube.com/watch?v=VPVzx1ZOVuw&t=2804s
 
 To learn React, check out the [React documentation](https://reactjs.org/).
